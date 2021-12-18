@@ -1,0 +1,70 @@
+{
+  "AddressBookJson": [
+    {
+      "id": 1,
+      "FirstName": "Shrimaj",
+      "LastName": "Mehta",
+      "Address": "Chaitanya colony",
+      "City": "Dondaicha",
+      "State": "Maharashtra",
+      "ZipCode": "425408",
+      "PhoneNumber": "9834084341",
+      "Email": "shri1@gmail.com"
+    },
+    {
+      "FirstName": "sikhandar",
+      "LastName": "khan",
+      "PhoneNumber": "7858070934",
+      "Address": "guly cricket",
+      "City": "delhi",
+      "State": "Inida",
+      "ZipCode": "355888",
+      "Email": "sr7@gmail.com",
+      "id": 2
+    },
+    {
+      "FirstName": "Radha",
+      "LastName": "Shyam",
+      "Addresss": "agag",
+      "City": "durgapur",
+      "State": "WestBenagl",
+      "ZipCode": "7878789",
+      "PhoneNumber": "7887898448",
+      "Email": "sggaya@gamil.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "FirstName": "samir",
+      "LastName": "Chand",
+      "Address": "A",
+      "City": "C",
+      "State": "M",
+      "Zipcode": "425477",
+      "PhoneNumber": "4872392",
+      "Email": "samir1@gmail.com"
+    },
+    {
+      "FirstName": "golu",
+      "LastName": "lad",
+      "Address": "Street ABC",
+      "City": "Allahabad",
+      "State": "UttarPradesh",
+      "ZipCode": "239292",
+      "PhoneNumber": "8798979898",
+      "Email": "Oqqsj@gmail.com",
+      "id": 5
+    },
+    {
+      "FirstName": "molu",
+      "LastName": "lad",
+      "Address": "Street ABC",
+      "City": "Allahabad",
+      "State": "UttarPradesh",
+      "ZipCode": "239292",
+      "PhoneNumber": "8798979898",
+      "Email": "Oqqsj@gmail.com",
+      "id": 11
+    }
+  ]
+}

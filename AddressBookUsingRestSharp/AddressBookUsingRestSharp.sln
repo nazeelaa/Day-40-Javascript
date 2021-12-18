@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookUsingRestSharp", "AddressBookUsingRestSharp.csproj", "{76C7879D-3E04-4CAE-AFD1-5B987427B20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTests", "..\RestSharpTests\RestSharpTests.csproj", "{B4352E0E-D4D2-4E40-A007-61039CB0250E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C7879D-3E04-4CAE-AFD1-5B987427B20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C7879D-3E04-4CAE-AFD1-5B987427B20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C7879D-3E04-4CAE-AFD1-5B987427B20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C7879D-3E04-4CAE-AFD1-5B987427B20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4352E0E-D4D2-4E40-A007-61039CB0250E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4352E0E-D4D2-4E40-A007-61039CB0250E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4352E0E-D4D2-4E40-A007-61039CB0250E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4352E0E-D4D2-4E40-A007-61039CB0250E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F37550-CE29-4F01-AA7B-5E60062F7D8A}
+	EndGlobalSection
+EndGlobal

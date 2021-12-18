@@ -1,0 +1,7 @@
+{
+    "/AddressBookJson/list":"/AddressBookJson",
+    "/AddressBookJson/get/:id":"/AddressBookJson/:id",
+    "/AddressBookJson/create":"/AddressBookJson",
+    "/AddressBookJson/update/:id":"/AddressBookJson/:id",
+    "/AddressBookJson/delete/:id":"/AddressBookJson/:id"
+}
